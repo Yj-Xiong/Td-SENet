@@ -1,8 +1,8 @@
 # Enhancing Local Modeling and High-Frequency Band Utilization on Dual-Path Speech Denoising
-
-## The base model is from CMGAN: Conformer-based Metric GAN for speech enhancement (https://arxiv.org/abs/2203.15149)
-## How to train:
 Our all codes will be released after accepting!
+## The base model is from CMGAN: Conformer-based Metric GAN for speech enhancement (https://arxiv.org/abs/2203.15149)
+
+## How to train:
 ### Step 1:
 In src:
 
