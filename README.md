@@ -5,8 +5,9 @@ All codes will be released after accepting!
 ## Demons are available
 ### A4_204 file in THCHS-30 dev set:
 “`
-Clean audio: (https://github.com/Yj-Xiong/Td-SENet/raw/my-page/Demos/A4_204%20clean.wav)
--9dB Noisy audio: (https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_-9dB.wav)
+Clean audio:[ (https://github.com/Yj-Xiong/Td-SENet/raw/my-page/Demos/A4_204 clean.wav)](https://github.com/Yj-Xiong/Td-SENet/blob/my-page/Demos/A4_204%20clean.wav)
+“`
+-9dB Noisy audio: [(https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_-9dB.wav)](https://github.com/Yj-Xiong/Td-SENet/blob/my-page/Demos/A4_204%20clean.wav)
 “`
 Enhanced by CMGAN: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_cmgan.wav)
 “`
