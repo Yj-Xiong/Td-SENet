@@ -24,7 +24,7 @@ Enhanced by Td-SENet: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-p
 ### B7_278.wav file in THCHS-30 dev set:
 Clean audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278 clean.wav)
 “`
--9dB Noisy audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278_-9dB.wav)
+-9dB Noisy audio: “`html https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278_-9dB.wav
 “`
 Enhanced by CMGAN: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278_cmgan.wav)
 “`
