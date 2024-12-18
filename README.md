@@ -2,6 +2,43 @@
 All codes will be released after accepting!
 ## The base model is from CMGAN: Conformer-based Metric GAN for speech enhancement (https://arxiv.org/abs/2203.15149)
 
+## Demons are available
+### A4_204 file in THCHS-30 dev set:
+Clean audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204 clean.wav)
+“`
+-9dB Noisy audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_-9dB.wav)
+“`
+Enhanced by CMGAN: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_cmgan.wav)
+“`
+Enhanced by Td-SENet: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204 tdnet.wav)
+“`
+### A4_204.wav file in THCHS-30 dev set:
+Clean audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204 clean.wav)
+“`
+-9dB Noisy audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_-9dB.wav)
+“`
+Enhanced by CMGAN: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204_cmgan.wav)
+“`
+Enhanced by Td-SENet: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/A4_204 tdnet.wav)
+“`
+### B7_278.wav file in THCHS-30 dev set:
+Clean audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278 clean.wav)
+“`
+-9dB Noisy audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278_-9dB.wav)
+“`
+Enhanced by CMGAN: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278_cmgan.wav)
+“`
+Enhanced by Td-SENet: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/B7_278 tdnet.wav)
+“`
+### C23_628.wav file in THCHS-30 dev set:
+Clean audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/C23_628 clean.wav)
+“`
+-9dB Noisy audio: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/C23_628_-9dB.wav)
+“`
+Enhanced by CMGAN: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/C23_628_cmgan.wav)
+“`
+Enhanced by Td-SENet: “`[html\](https://github.com/Yj-Xiong/Td-SENet/edit/my-page/Demos/C23_628 tdnet.wav)
+“`
 ## How to train:
 ### Step 1:
 In src:
