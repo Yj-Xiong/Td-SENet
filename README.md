@@ -20,14 +20,12 @@ Download VCTK-DEMAND dataset with 16 kHz, change the dataset dir:
     -clean/
 ```
 
-### Step 3:
+### Step 3: Training
 If you want to train the model, run train.py
 ```
 python3 train.py --data_dir "/home/xyj/dataset/Voicebank/noisy-vctk-16k"
-### Step 4:
-Evaluation with the best ckpt, if adopting PCS just evaluating with the same ckpt:
 ```
+## Inferencing and Evaluating
 python3 evaluation.py --test_dir </home/xyj/dataset/Voicebank/noisy-vctk-16k> --model_path </home/xyj/CMGAN-V1/src/ckpt/>
 
-python3 pcs_eva.py --test_dir </home/xyj/dataset/Voicebank/noisy-vctk-16k> --model_path </home/xyj/CMGAN-V1/src/ckpt/>
 ```
